@@ -1,4 +1,4 @@
-# **LLAVERO INTELIGENTE**
+# **SISTEMA BOSA**
 ## I N T E G R A N T E S  
 - Omar Arturo Moctezuma Padrón
 - Sebastian Eduardo Ramírez Bocanegra
